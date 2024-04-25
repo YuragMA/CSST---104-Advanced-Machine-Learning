@@ -34,7 +34,7 @@ This repository serves as a compilation of my tasks and assessments taken throug
 
 - **scikit-learn (sklearn):** Used for machine learning tasks, including model selection, preprocessing, evaluation, and more.
 
-- **statsmodels: **A library for estimating and interpreting statistical models, including time series analysis, such as ARIMA models.
+- **statsmodels: ** A library for estimating and interpreting statistical models, including time series analysis, such as ARIMA models.
 
 - **numpy:** Fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.
 
