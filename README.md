@@ -21,3 +21,5 @@ This repository serves as a compilation of my tasks and assessments taken throug
 
 # **Table of Contents:**
 
+
+2. <a href="Exercise 1/3B_YURAG_EXER1.ipynb/READ.md">3B_YURAG_EXER1.ipynb</a>
