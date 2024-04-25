@@ -21,4 +21,4 @@ This repository serves as a compilation of my tasks and assessments taken throug
 
 # **Table of Contents:**
 
-1. <a href="Exercise 1/README.MD">3B_YURAG_EXER1</a>
+1. <a href="Exercise 1/README.md">3B_YURAG_EXER1</a>
