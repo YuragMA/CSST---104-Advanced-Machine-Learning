@@ -108,13 +108,13 @@ This source code focuses on forecasting app ratings using a Linear Regression mo
 
 # **Contacts:**
 
-**Facebook: **
+**Facebook:**
 
 Marivient Alexia R. Yurag 
 
 [Facebook Account Link: https://www.facebook.com/MarivientYurag]
 
-**Email Address: **
+**Email Address:**
 
 yuragmarivient@gmail.com
 
