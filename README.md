@@ -21,4 +21,4 @@ This repository serves as a compilation of my tasks and assessments taken throug
 
 # **Table of Contents:**
 
-1. <a href="https://github.com/YuragMA/CSST---104-Advanced-Machine-Learning/tree/b00c77f5e842526027bdadc19d7cd2433a11771b/Exercise%201/README.md">3B_YURAG_EXER1</a>
+1. <a href="Exercise 1/README.md">3B_YURAG_EXER1.ipynb</a>
