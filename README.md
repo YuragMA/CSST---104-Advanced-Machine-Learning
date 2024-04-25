@@ -22,4 +22,4 @@ This repository serves as a compilation of my tasks and assessments taken throug
 # **Table of Contents:**
 
 
-2. <a href="Exercise 1/Exercise 1/3B_YURAG_EXER1.ipynb">Exer-1-Data-Analysis</a>
+2. <a href="Exercise 1/3B_YURAG_EXER1.ipynb">Data Analysis</a>
